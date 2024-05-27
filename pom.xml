@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.code.whiskers</groupId>
 	<artifactId>mic-e-commerce-api-gateway</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>mic-e-commerce-api-gateway</name>
 	<description>Eureka Services</description>
 	<properties>
